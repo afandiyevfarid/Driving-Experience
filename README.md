@@ -2,6 +2,10 @@
 
 A professional web application for tracking, managing, and analyzing driving experiences with advanced analytics, modern UI design, and comprehensive data visualization.
 
+## 🌐 Live Demo
+
+**Try it live:** [https://afandi.alwaysdata.net/hwproject/index.php](https://afandi.alwaysdata.net/hwproject/index.php)
+
 ## Features
 
 - 📝 **Trip Management**: Record driving trips with date, time, duration, distance, and conditions
@@ -552,5 +556,3 @@ For issues, questions, or suggestions:
 **Architecture**: MVC with Repository Pattern  
 **PHP Version**: 8.0+  
 **Last Updated**: December 2025
-
-Made with ❤️ for tracking driving experiences
